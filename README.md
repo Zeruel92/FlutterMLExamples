@@ -1,16 +1,11 @@
-# flutter_ml
+# Firebase ML con Flutter
 
-A new Flutter project.
+App che usa i servizi di ML di Firebase
 
-## Getting Started
+## Firebase 
+Per usare questi esempi creare un progetto su firebase e seguire le procedure a video per configurare il progetto
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Package Usati:
+-  [Firebase ML Vision] (https://pub.dartlang.org/packages/firebase_ml_vision)
+-  [Camera] (https://pub.dartlang.org/packages/camera)
+-  [Path provider] (https://pub.dartlang.org/packages/path_provider)
